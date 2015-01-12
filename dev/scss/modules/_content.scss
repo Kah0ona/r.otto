@@ -1,0 +1,125 @@
+.Content {
+
+}
+
+.Content--home{
+	text-align: left;
+	line-height: 30px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+.Content--app h2{
+	font-size: 20px;
+}
+
+.Content-entry h2{
+	font-size: 20px;
+}
+
+.full-bg-home-top{
+	background: #24351f;
+	color: #ffffff;
+	border-top:3px solid #ffffff;
+	text-align: center;
+}
+
+.scheiding{
+	border: 1px solid #666666;
+}
+
+.onze-diensten{
+	background: #ffffff;
+	padding: 10px;
+	border-radius: 10px;
+	color: #333333;
+}
+
+.diensten{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.garanties-button{
+	text-align: center;
+}
+
+.onze-garanties{
+	background: #24351f;
+	padding: 10px;
+	border-radius: 10px;
+	color: #ffffff;
+}
+
+
+.dienst-area{
+	text-align: center;
+}
+
+.dienst-area p{
+	color: #000000;
+}
+
+.full-bg-home-bottom{
+	background: #24351f;
+	color: #ffffff;
+}
+
+.garanties-area{
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+
+.garanties-area p{
+	line-height: 30px;
+	margin-top: 0px;
+}
+
+#input_2_1, #input_2_2, #input_2_3, #input_2_4 {
+	width: 100%;
+	border: 1px solid #d5d5d5;
+	border-radius: 3px;
+}
+
+#gform_submit_button_1{
+	background: #23351f;
+	border-radius: 3px;
+	padding: 10px;
+	border:0px;
+	color: #ffffff;
+}
+
+#gform_submit_button_2{
+	background: #23351f;
+	border-radius: 3px;
+	padding: 10px;
+	border:0px;
+	color: #ffffff;
+}
+
+//App pagina
+.google-play{
+   display: block;
+   margin-top: 30px;
+}
+
+.qr_code{
+  width: 200px;
+  margin-top: 30px;
+}
+
+
+
+@media all and (max-width: 600px) { 
+	.dienst-area{
+		margin-top: 30px;
+	}
+
+	.duim{
+		text-align: center;
+	}
+
+	.welkom-tekst{
+		font-size: 18px;
+	}
+}
