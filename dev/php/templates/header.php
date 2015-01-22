@@ -43,9 +43,6 @@
   </head>
   <body <?php body_class(); ?> >
 
-
-   <body <?php body_class(); ?> >
-
  <div class="u-gridContainer">
      <div class="u-gridRow">                 
          <div class="u-gridCol9">
