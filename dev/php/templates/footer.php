@@ -10,8 +10,8 @@
 						<hr class="hr-footer">
 							<div class="footer-box-child">
 								<p>
-									Bergsebaan 49 <br>
-									4709 AJ Nispen
+									Dominestraat 76 <br>
+									4701 JC  Roosendaal
 								</p>
 							</div>
 							<div class="footer-box-child">

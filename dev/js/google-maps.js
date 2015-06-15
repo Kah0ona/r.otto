@@ -11,7 +11,7 @@ function initialize() {
       mapTypeId: google.maps.MapTypeId.ROADMAP
     }
     map = new google.maps.Map(mapCanvas, mapOptions);
-    codeAddress('Bergsebaan 49 4709 AJ  Nispen');
+    codeAddress('Dominestraat 76 4701 JC  Roosendaal');
   }
 }
 

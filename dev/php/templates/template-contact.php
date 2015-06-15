@@ -17,8 +17,8 @@ Template Name: Contactpage
 						<div class="adress u-gridCol4">
 							<div class="adress-info">
 								<p>R.Otto Onderhoud & Renovatiewerken</p>
-								<p>Bergsebaan 49</p>
-								<p>4709 AJ  Nispen</p>
+								<p>Dominestraat 76</p>
+								<p>4701 JC  Roosendaal</p>
 								<p>Email: rwotto@home.nl</p>
 								<p>Tel: 0683250460</p>
 							</div>
